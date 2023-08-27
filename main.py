@@ -1,3 +1,4 @@
+#Adapted from https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkNGRVFmZDJkZGl6M25vczVCRFRaVVBYMUxjUXxBQ3Jtc0tuVFBjN09HMGxmbjVqWUdCcEZNaVZ1Y1hCVDRLcnc4dktueV8xNE1tUnhZNG1scVdlelpDSzdpX0pTQ3dVSEM5cXZEZVB0dno3ZTR3RjFRakMxM1BZYklPMmtEQTJaWEVaOXh2cGRLY19hM25ydURTQQ&q=https%3A%2F%2Fgithub.com%2FAarohiSingla%2FAlexnet-Using-Tensorflow&v=EmFnW6fYyYY
 import tensorflow.compat.v1 as tf
 
 # disabling eager mode
